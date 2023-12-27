@@ -1,9 +1,10 @@
 import "./App.css";
+import Slider from "./Components/Slider/Slider";
 
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold">Hello world!</h1>
+    <Slider></Slider>
     </>
   );
 }
